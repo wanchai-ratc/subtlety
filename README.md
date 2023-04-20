@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
