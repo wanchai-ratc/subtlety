@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Update TFLite Docs images (#8605)
