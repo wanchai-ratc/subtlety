@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add quantization support to TensorFlow.js converter (#7008)
