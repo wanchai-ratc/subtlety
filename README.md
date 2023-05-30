@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
