@@ -1,1 +1,1 @@
-added badges (#45)
+Update HTTP to HTTPS (#7548)
