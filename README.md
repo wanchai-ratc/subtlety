@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
