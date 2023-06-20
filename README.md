@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Replace onnx2tf usage from CLI to Python (#8429)
