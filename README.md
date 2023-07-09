@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+OBB: Fix when training on zip data (#8680)
