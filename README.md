@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Fix device counting method to account for double-digit device IDs (#8502)
