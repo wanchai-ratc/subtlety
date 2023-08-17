@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Feature: Create HUB Models from CLI or Python Script (#7316)
