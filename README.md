@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Fix OpenVINO missing batch-size bug (#9264)
