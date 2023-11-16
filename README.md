@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
