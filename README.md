@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add plot_images conf_thresh parameter (#8446)
