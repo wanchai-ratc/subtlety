@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add distance calculation feature in vision-eye (#8616)
