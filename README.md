@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+docs: update view-results-in-terminal.md (#66)
