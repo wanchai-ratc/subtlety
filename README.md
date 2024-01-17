@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
