@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
