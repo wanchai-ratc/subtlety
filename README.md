@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
