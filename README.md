@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
