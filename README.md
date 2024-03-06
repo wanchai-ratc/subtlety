@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Merge pull request #22 from SkalskiP/patch-1
