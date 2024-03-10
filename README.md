@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
