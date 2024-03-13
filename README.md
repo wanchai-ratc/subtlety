@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
