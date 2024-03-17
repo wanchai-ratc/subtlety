@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
