@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
