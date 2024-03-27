@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add docs guide terminal images (#8819)
