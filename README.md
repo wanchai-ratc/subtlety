@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add visuals in guides/distance-calculation.md (#7876)
