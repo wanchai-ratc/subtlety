@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Feature: Create HUB Models from CLI or Python Script (#7316)
