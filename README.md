@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
