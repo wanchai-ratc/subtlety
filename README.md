@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
