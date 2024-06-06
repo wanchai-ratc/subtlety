@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
