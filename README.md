@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Compare plt.get_backend() in lowercase (#8409)
