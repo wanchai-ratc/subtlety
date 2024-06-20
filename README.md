@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
