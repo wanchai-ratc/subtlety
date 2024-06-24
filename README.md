@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+TensorRT FP16 export with dynamic=True (#7870)
