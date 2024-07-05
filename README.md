@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
