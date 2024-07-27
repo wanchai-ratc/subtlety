@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add Weights & Biases Docs integrations page (#7199)
