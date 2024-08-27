@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix OpenVINO links (#7930)
