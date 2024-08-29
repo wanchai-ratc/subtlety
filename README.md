@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update fraction arg to employ a random selection (#8234)
