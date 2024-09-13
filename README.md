@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix docs links (#7096)
