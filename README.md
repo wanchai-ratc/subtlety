@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
