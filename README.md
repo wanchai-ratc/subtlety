@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
