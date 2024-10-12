@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix docker.yaml double-quote version bug (#7452)
