@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Segment TensorRT batch=3 fix (#7952)
