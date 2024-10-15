@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Merge pull request #22 from SkalskiP/patch-1
