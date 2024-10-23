@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
