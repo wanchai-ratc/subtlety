@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Fix heatmaps width-height order bug (#7184)
