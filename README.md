@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
