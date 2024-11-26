@@ -1,1 +1,1 @@
-added badges (#45)
+Retry once for Docker CI failures (#8164)
